@@ -6,8 +6,8 @@ import NavBar from "@/components/sections/navBar";
 import Footer from "@/components/sections/footer";
 
 export const metadata: Metadata = {
-  title: "Harshavardhan Kona",
-  description: "Harshavardhan Kona's Personal Portfolio",
+  title: "Kishore Kamalay",
+  description: "Kishore Kamalay's Personal Portfolio",
 };
 
 export default function RootLayout({
@@ -16,9 +16,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en"
-          className={`${poppins.variable} ${caveat.variable} ${crimsonPro.variable} 
-          ${firaCode.variable} ${firaSans.variable} antialiased`}>
+    <html
+      lang="en"
+      className={`${poppins.variable} ${caveat.variable} ${crimsonPro.variable} 
+          ${firaCode.variable} ${firaSans.variable} antialiased`}
+    >
       <body className="bg-bg-primary-dark text-text-primary-dark">
         <NavBar />
         {children}
