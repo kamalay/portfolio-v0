@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+    --bg-primary-dark: #1C2025;
+    --bg-secondary-dark: #262B31;
+    --bg-tertiary-dark: #2B3037;
+
+    --text-primary-dark: #F5F5F1;
+    --text-secondary-dark: #DBDBD8;
+    --text-tertiary-dark: #DBDBD8CC;  /* here CC represents 80% opacity */
+
+    --border-dark: #2F353C;
+
+    --teal-dark: #448FA3;
+    --teal-hover-dark: #68C5DB;
+
+    --saffron-dark: #D68C45;
+    --saffron-hover-dark: #E9A35C;
+
+}
+
+@layer utilities {
+    .scrollbar-hide {
+        /* For Firefox */
+        scrollbar-width: none;
+        /* For IE/Edge */
+        -ms-overflow-style: none;
+    }
+
+    /* For Webkit browsers (Chrome, Safari, Opera, etc.) */
+    .scrollbar-hide::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+/* If you want to apply it globally to the whole app */
+html, body {
+    /* For Firefox */
+    scrollbar-width: none;
+    /* For IE/Edge */
+    -ms-overflow-style: none;
+}
+
+/* For Webkit browsers */
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+    display: none;
+}
