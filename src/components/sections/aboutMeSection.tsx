@@ -23,9 +23,7 @@ export default function AboutMeSection() {
         <div className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-6">
           <div className="lg:w-3/4 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
             <div className="text-text-secondary-dark font-firaSans text-justify space-y-4">
-              <h1 className="text-3xl">
-                Hello Again, I&#39;m Harshavardhan ✌️.
-              </h1>
+              <h1 className="text-3xl">Hello Again, I&#39;m Kishore ✌️.</h1>
               <p className="pb-2">
                 I&#39;m a Computer Vision Engineer and Full Stack Developer with
                 over 4 years of experience in crafting innovative solutions

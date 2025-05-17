@@ -116,7 +116,7 @@ export default function LandingSection() {
                   I&#39;m{" "}
                 </span>
                 <span className="ml-2 text-text-primary-dark tracking-tight font-poppins">
-                  Kamalay Kishore Reddy Kona
+                  Kamalay Kishore
                 </span>
               </h1>
 
