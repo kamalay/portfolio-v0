@@ -70,7 +70,7 @@ export default function AboutMeSection() {
           <div className="lg:w-1/4 rounded-3xl border border-border-dark">
             <div className="w-full h-[30rem] relative">
               <Image
-                src="/personal-snapshot.png"
+                src="/kishoreimg.jpeg"
                 alt="Profile"
                 width={400}
                 height={400}
