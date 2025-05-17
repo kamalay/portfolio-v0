@@ -24,29 +24,41 @@ export default function AboutMeSection() {
           <div className="lg:w-3/4 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
             <div className="text-text-secondary-dark font-firaSans text-justify space-y-4">
               <h1 className="text-3xl">Hello Again, I&#39;m Kishore ✌️.</h1>
+
               <p className="pb-2">
-                I&#39;m a Computer Vision Engineer and Full Stack Developer with
-                over 4 years of experience in crafting innovative solutions
-                across diverse technological domains. My journey began with a
-                deep fascination for image processing and computer vision,
-                leading to multiple published research papers on advanced
-                encryption systems and medical image processing. Throughout my
-                career, I&#39;ve seamlessly bridged the gap between theoretical
-                computer vision concepts and practical software engineering,
-                developing everything from real-time autonomous navigation
-                systems to scalable cloud applications.
+                I&#39;m a Senior Software Engineer with nearly 10 years of
+                experience in the Software Development Lifecycle (SDLC), I have
+                expertise in core areas such as Analysis, Design,
+                Implementation, Testing, and Deployment of Object-Oriented,
+                Client-Server, Web-Based and Distributed Enterprise
+                Applications. Experience of development using software
+                development methodologies such as Agile, Waterfall development
+                and Test-Driven Development (TDD) environments and Utilized
+                GitHub, JIRA, Bitbucket, Confluence for version control. Skilled
+                in designing and developing Web-centric applications using
+                modern technologies such as HTML5, JavaScript, ReactJS,
+                ExpressJS, Typescript and worked closely with UX designers and
+                leveraged Figma Design tool for Application Development
               </p>
               <p>
-                From optimizing C++ code for embedded systems at Cognizant to
-                developing privacy-focused ML models at UMass, and now
-                architecting robust document management systems at Innovise
-                Technology, I bring a unique blend of computer vision expertise
-                and full-stack development skills. I&#39;m particularly
-                passionate about performance optimization through GPU
-                acceleration, containerization, and cloud infrastructure,
-                consistently delivering significant improvements across all my
-                projects. Let me share with you how my diverse experience could
-                contribute to your team&#39;s success.
+                Skilled in applying core Java concepts, including Collections
+                Framework, OOPS fundamentals to develop robust and
+                high-performance applications. Proficient in Java and
+                experienced in working with a variety of Java frameworks,
+                including Spring, Spring MVC, Spring Boot, Spring JPA, Spring
+                JDBC, and Microservices. Proficient in writing SQL queries and
+                experienced in working with diverse databases such as OracleDB,
+                DB2, and VerticaDB.
+              </p>
+              <p>
+                Reliable, resourceful, and efficient team player with good
+                communication and interpersonal skills, problem solving and
+                debugging skills able to adapt quickly to new technologies.
+                Actively engaged in meetings with Product Owners, stakeholders
+                and vendors collaborated across multiple teams to deliver
+                optimal solutions. Led and mentored offshore teams and junior
+                developers, providing guidance and support to ensure successful
+                project execution.
               </p>
             </div>
 
