@@ -3,7 +3,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFile } from "@fortawesome/free-regular-svg-icons";
 import Image from "next/image";
-import { GridLayerAboutMe } from "@/components/layouts/gridLayerAboutMe";
 
 export default function AboutMeSection() {
   return (
@@ -91,8 +90,6 @@ export default function AboutMeSection() {
             </div>
           </div>
         </div>
-
-        <GridLayerAboutMe />
       </div>
     </section>
   );
