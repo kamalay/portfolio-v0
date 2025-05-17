@@ -12,6 +12,7 @@ export default function LandingSection() {
   const [isVisible, setIsVisible] = useState(false);
   const [currentText, setCurrentText] = useState("");
   const [currentIndex, setCurrentIndex] = useState(0);
+  console.log(currentText);
 
   const letters = useMemo(() => "~!@#$%^&*<>?|/{}[]:;(CV)=+", []);
 
@@ -121,23 +122,16 @@ export default function LandingSection() {
               </h1>
 
               {/* Role - with responsive width for line breaks */}
-              <div className="relative">
-                <p className="text-2xl sm:text-3xl md:text-4xl font-medium transition-all duration-500 ease-in-out">
-                  <span className="text-text-secondary-dark font-firaSans">
-                    A{" "}
-                  </span>
-                  <span className="ml-2 text-teal-hover-dark font-firaCode tracking-widest">
-                    {currentText}
-                  </span>
-                </p>
-              </div>
 
               {/* Description */}
               <p className="text-lg sm:text-xl md:text-2xl text-text-secondary-dark font-firaSans font-light leading-relaxed max-w-3xl">
-                A passionate builder who transforms ideas into scalable
-                solutions and occasionally gets lost in optimization rabbit
-                holes. But hey, that&#39;s just part of the engineering
-                adventure!{" "}
+                A top performing full stack developer with over 9 years of
+                experience in building scalable web applications using Java,
+                Spring Boot, Microservices, and ReactJS. Proficient in RESTful
+                APIs, NodeJS, ExpressJS, and front-end development with
+                JavaScript and TypeScript. Strong in database integration with
+                SQL, OracleDB, DB2, and Vertica using JPA/JDBC. Skilled in AWS,
+                GitHub, JIRA, and Agile/TDD delivery practices.
                 <span className="ml-1 inline-block animate-rocket">🚀</span>
               </p>
             </div>
