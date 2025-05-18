@@ -7,7 +7,7 @@ export default function ExperienceSection() {
         {/* Section Heading */}
         <div className="pl-20">
           <h1 className="text-3xl pb-1 font-semibold font-poppins tracking-wider text-text-primary-dark">
-            Profession Experience
+            Professional Experience
           </h1>
           <p className="text-lg text-text-tertiary-dark font-firaCode font-medium">
             Experienced Software Engineer Specializing in Scalable Web

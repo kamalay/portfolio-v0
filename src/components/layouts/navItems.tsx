@@ -31,6 +31,11 @@ const navItems: NavItem[] = [
     label: "Experience",
     sectionId: "experience",
   },
+  {
+    icon: <FontAwesomeIcon icon={faBriefcase} />,
+    label: "LinkedIn",
+    sectionId: "linkedin",
+  },
 ];
 
 const MobileNav: React.FC = () => {
