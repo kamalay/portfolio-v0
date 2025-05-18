@@ -2,11 +2,7 @@
 
 import React, { useState, useEffect, useMemo } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faDiscord,
-  faGithub,
-  faLinkedinIn,
-} from "@fortawesome/free-brands-svg-icons";
+import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 
 export default function LandingSection() {
   const [isVisible, setIsVisible] = useState(false);
@@ -145,28 +141,12 @@ export default function LandingSection() {
 
           {/* Social Icons */}
           <a
-            href="https://linkedin.com/in/harshavardhankona"
+            href="https://www.linkedin.com/in/kishore-kamalay-715aa435/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-text-tertiary-dark hover:text-[#0B65C2] transform transition-all duration-300 hover:-translate-y-1"
           >
             <FontAwesomeIcon icon={faLinkedinIn} className="w-6 h-6" />
-          </a>
-          <a
-            href="https://github.com/kshvr16"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-text-tertiary-dark hover:text-[#FFFFFF] transform transition-all duration-300 hover:-translate-y-1"
-          >
-            <FontAwesomeIcon icon={faGithub} className="w-6 h-6" />
-          </a>
-          <a
-            href="https://discord.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-text-tertiary-dark hover:text-[#5865F2] transform transition-all duration-300 hover:-translate-y-1"
-          >
-            <FontAwesomeIcon icon={faDiscord} className="w-6 h-6" />
           </a>
         </div>
       </div>
