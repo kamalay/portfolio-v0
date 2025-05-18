@@ -1,7 +1,5 @@
 "use client";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFile } from "@fortawesome/free-regular-svg-icons";
 import Image from "next/image";
 
 export default function AboutMeSection() {
@@ -60,22 +58,6 @@ export default function AboutMeSection() {
                 project execution.
               </p>
             </div>
-
-            <button
-              onClick={() =>
-                window.open(
-                  "https://drive.google.com/file/d/1IjmHBYHZLsPYcOzLM11FNWBUvlX0JMkt/view",
-                  "_blank",
-                  "noopener,noreferrer"
-                )
-              }
-              className="inline-flex items-center gap-3 px-5 py-2 bg-bg-primary-dark border border-teal-dark text-teal-dark hover:text-teal-hover-dark hover:border-teal-hover-dark rounded-full transition-colors"
-            >
-              <FontAwesomeIcon icon={faFile} className="w-5 h-5" />
-              <span className="font-firaCode font-medium text-md">
-                View My Resume
-              </span>
-            </button>
           </div>
 
           <div className="lg:w-1/4 rounded-3xl border border-border-dark">
