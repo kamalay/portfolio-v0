@@ -26,7 +26,7 @@ const educationData: Education[] = [
     major: "Software Engineering",
     location: "Houston, TX USA",
     duration: "August 2014 - Dec 2015",
-    gpa: "3.8/4.0",
+    gpa: "3.6/4.0",
     courses: [
       "Software Testing",
       "Software Project Management",
@@ -95,8 +95,9 @@ export default function EducationSection() {
   return (
     <section id="education" className="w-full pt-20">
       {/* Main Container - For heading and tagline */}
-      <div className="max-w-[90rem] mx-auto px-6 lg:px-8">
-        <div className="flex flex-col gap-1">
+
+      <div className="flex flex-col gap-6">
+        <div className="pl-20">
           <h1 className="text-2xl sm:text-3xl font-semibold font-poppins tracking-wider text-text-primary-dark">
             Education
           </h1>
