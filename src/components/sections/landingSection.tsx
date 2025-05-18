@@ -121,7 +121,7 @@ export default function LandingSection() {
 
               {/* Description */}
               <p className="text-lg sm:text-xl md:text-2xl text-text-secondary-dark font-firaSans font-light leading-relaxed max-w-3xl">
-                A top performing full stack developer with over 9 years of
+                A top performing full stack developer with over 10 years of
                 experience in building scalable web applications using Java,
                 Spring Boot, Microservices, and ReactJS. Proficient in RESTful
                 APIs, NodeJS, ExpressJS, and front-end development with

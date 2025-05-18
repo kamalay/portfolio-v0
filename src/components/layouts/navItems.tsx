@@ -6,8 +6,6 @@ import {
   faBriefcase,
   faChevronDown,
   faChevronLeft,
-  faComment,
-  faTerminal,
   faUser,
 } from "@fortawesome/free-solid-svg-icons";
 
@@ -25,18 +23,13 @@ const navItems: NavItem[] = [
   },
   {
     icon: <FontAwesomeIcon icon={faBriefcase} />,
+    label: "Education",
+    sectionId: "education",
+  },
+  {
+    icon: <FontAwesomeIcon icon={faBriefcase} />,
     label: "Experience",
     sectionId: "experience",
-  },
-  {
-    icon: <FontAwesomeIcon icon={faTerminal} />,
-    label: "Projects",
-    sectionId: "projects",
-  },
-  {
-    icon: <FontAwesomeIcon icon={faComment} />,
-    label: "Contact",
-    sectionId: "contact",
   },
 ];
 
