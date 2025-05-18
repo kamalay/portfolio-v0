@@ -1,8 +1,6 @@
 "use client";
 
 import React, { useState, useEffect, useMemo } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 
 export default function LandingSection() {
   const [isVisible, setIsVisible] = useState(false);
@@ -133,22 +131,7 @@ export default function LandingSection() {
             </div>
           </div>
         </div>
-
-        {/* Social Links Container */}
-        <div className="absolute bottom-8 right-6 sm:right-8 md:right-10 flex flex-row md:flex-col items-center space-x-4 md:space-x-0 md:space-y-4">
-          {/* Separator Line */}
-          <div className="w-16 h-[3px] md:w-[3px] md:h-16 bg-border-dark"></div>
-
-          {/* Social Icons */}
-          <a
-            href="https://www.linkedin.com/in/kishore-kamalay-715aa435/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-text-tertiary-dark hover:text-[#0B65C2] transform transition-all duration-300 hover:-translate-y-1"
-          >
-            <FontAwesomeIcon icon={faLinkedinIn} className="w-6 h-6" />
-          </a>
-        </div>
+        {/* Social Links Container */}{" "}
       </div>
     </section>
   );
