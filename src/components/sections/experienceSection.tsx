@@ -75,9 +75,16 @@ export default function ExperienceSection() {
                 · Leveraged Kubernetes, Docker and Helm Charts for development,
                 deployment and orchestration of the application.
               </p>{" "}
-              · Recognized by SLT for Resolving Security Vulnerabilities and
-              Deprecated java and NPM Dependencies and effectively utilized
-              snyk.
+              <p>
+                · Recognized by SLT for Resolving Security Vulnerabilities and
+                Deprecated java and NPM Dependencies and effectively utilized
+                snyk.
+              </p>
+              <p>
+                Environment: ReactJS, Java, Spring boot, Restful Web services,
+                POSTMAN, JIRA, JSON, HTML5, CSS3, JavaScript, Bootstrap,
+                DBeaver, Agile Methodology.{" "}
+              </p>
             </p>
           </div>
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
@@ -147,6 +154,11 @@ export default function ExperienceSection() {
                 and served as On-call support for the application, ensuring
                 timely issue resolution.
               </p>
+              <p>
+                Environment: Java, Restful Web services, POSTMAN, JIRA, ReactJS,
+                JSON, HTML5, CSS3, JavaScript, Spring, DB2, WebSphere, Agile
+                Methodology.
+              </p>
             </p>
           </div>
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
@@ -197,38 +209,77 @@ export default function ExperienceSection() {
                 · Practiced Test Driven Development where we developed the code
                 and then tested the code and then refactored the code.
               </p>
+              <p>
+                Environment: Java, DB2, JavaScript, Bootstrap Rational Software
+                Architecture, Rational Tool Concert, JSP, SQL, Hibernates, Agile
+                JSP.
+              </p>
             </p>
           </div>
         </div>
         <div className="mx-auto flex flex-col lg:flex-row gap-6">
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
+            <h1 className="text-xl font-semibold">
+              Kairos (Irving, TX) ( January 2016 - Nov 2016){" "}
+            </h1>
             <p className="pb-2">
-              · Was responsible for developing the UI pages using HTML5, CSS3,
-              JavaScript, Bootstrap, JSON, Nodejs. · Utilized CSS3 code for the
-              front-end styling of the pages. · Worked with ECMA Script 6
-              features. For the JSX and ES2015(ES6) used Babel, web pack. ·
-              Utilized spring MVC, spring beans, collections for developments of
-              overall backend code. · Created model layer using Hibernate and
-              extensively used its API to perform crud operation. · Worked Web
-              Services composition in by using JAXB API, JAX-RS and JAX-WS
-              Services. · Deep understanding and working experience in Object
-              Oriented Java · Tested REST services using google chromes POSTMAN
-              plugin. Environment: ReactJS, Java, Restful Web services, POSTMAN,
-              JIRA, JSON, HTML5, CSS3, JavaScript, DB2, Agile Methodology.
+              <p>
+                · Was responsible for developing the UI pages using HTML5, CSS3,
+                JavaScript, Bootstrap, JSON, Nodejs.
+              </p>
+              <p>
+                · Utilized CSS3 code for the front-end styling of the pages. ·
+                Worked with ECMA Script 6 features. For the JSX and ES2015(ES6)
+                used Babel, web pack.{" "}
+              </p>
+              <p>
+                · Utilized spring MVC, spring beans, collections for
+                developments of overall backend code.{" "}
+              </p>{" "}
+              <p>
+                · Created model layer using Hibernate and extensively used its
+                API to perform crud operation.{" "}
+              </p>
+              <p>
+                · Worked Web Services composition in by using JAXB API, JAX-RS
+                and JAX-WS Services.{" "}
+              </p>
+              <p>
+                · Deep understanding and working experience in Object Oriented
+                Java{" "}
+              </p>
+              · Tested REST services using google chromes POSTMAN plugin.
+              Environment: ReactJS, Java, Restful Web services, POSTMAN, JIRA,
+              JSON, HTML5, CSS3, JavaScript, DB2, Agile Methodology.
             </p>
           </div>
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
+            <h1 className="text-xl font-semibold">
+              Sattvaq (Hyderabad, India) ( Dec 2012 - Dec 2013){" "}
+            </h1>
             <p className="pb-2">
-              · Responsible and mentored the team in complete software
-              development lifecycle (SDLC) tasks - design, coding, testing, and
-              documentation using Rational Unified Process (RUP) for analysis
-              and design of application. · Designed and developed the web-tier
-              using HTML, JSPs, JavaScript, css3 and Tiles framework. ·
-              Hibernate framework is used in persistence layer for mapping an
-              object-oriented domain model to a relational database (Oracle). ·
-              Used jQuery for faster load of pages and used events to manipulate
-              the elements depends on the user interactions. · Used SQL
-              statements and procedures to fetch the data from the database.
+              <p>
+                · Responsible and mentored the team in complete software
+                development lifecycle (SDLC) tasks - design, coding, testing,
+                and documentation using Rational Unified Process (RUP) for
+                analysis and design of application.{" "}
+              </p>
+              <p>
+                · Designed and developed the web-tier using HTML, JSPs,
+                JavaScript, css3 and Tiles framework.
+              </p>{" "}
+              <p>
+                Hibernate framework is used in persistence layer for mapping an
+                object-oriented domain model to a relational database (Oracle).
+              </p>
+              <p>
+                · Used jQuery for faster load of pages and used events to
+                manipulate the elements depends on the user interactions.{" "}
+              </p>{" "}
+              <p>
+                · Used SQL statements and procedures to fetch the data from the
+                database.
+              </p>{" "}
               Environment: Java, J2EE, Servlets, JSP, XML, DOM, HTML, Tomcat,
               PL/SQL, JDBC.
             </p>
