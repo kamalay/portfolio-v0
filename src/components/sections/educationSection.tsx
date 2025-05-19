@@ -101,9 +101,6 @@ export default function EducationSection() {
           <h1 className="text-2xl sm:text-3xl font-semibold font-poppins tracking-wider text-text-primary-dark">
             Education
           </h1>
-          <p className="text-sm sm:text-md md:text-lg text-text-tertiary-dark font-firaCode font-medium">
-            Learning, Growing, Evolving — Each Degree a Chapter in My Story
-          </p>
         </div>
       </div>
 
