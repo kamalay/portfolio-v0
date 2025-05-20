@@ -26,7 +26,7 @@ const educationData: Education[] = [
     major: "Software Engineering",
     location: "Houston, TX USA",
     duration: "August 2014 - Dec 2015",
-    gpa: "3.6/4.0",
+    gpa: "3.41/4.0",
     courses: [
       "Software Testing",
       "Software Project Management",
