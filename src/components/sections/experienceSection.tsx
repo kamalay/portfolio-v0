@@ -163,7 +163,8 @@ export default function ExperienceSection() {
           </div>
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
             <h1 className="text-xl font-semibold">
-              IBM (SouthBury, CT) ( Nov 2016 - June 2018){" "}
+              Client: IBM (SouthBury, CT) ( Nov 2016 - June 2018) Employer:
+              Kairos (Irving, TX) ( January 2016 - Nov 2016){" "}
             </h1>
             <p className="pb-2">
               <p>
@@ -198,6 +199,18 @@ export default function ExperienceSection() {
                 database.
               </p>{" "}
               <p>
+                · Utilized spring MVC, spring beans, collections for
+                developments of overall backend code.{" "}
+              </p>{" "}
+              <p>
+                · Created model layer using Hibernate and extensively used its
+                API to perform crud operation.{" "}
+              </p>
+              <p>
+                · Worked Web Services composition in by using JAXB API, JAX-RS
+                and JAX-WS Services.{" "}
+              </p>
+              <p>
                 · Implemented testcases with Junit to verify application
                 behaviour and support test-driven development practises.{" "}
               </p>
@@ -218,41 +231,6 @@ export default function ExperienceSection() {
           </div>
         </div>
         <div className="mx-auto flex flex-col lg:flex-row gap-6">
-          <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
-            <h1 className="text-xl font-semibold">
-              Kairos (Irving, TX) ( January 2016 - Nov 2016){" "}
-            </h1>
-            <p className="pb-2">
-              <p>
-                · Was responsible for developing the UI pages using HTML5, CSS3,
-                JavaScript, Bootstrap, JSON, Nodejs.
-              </p>
-              <p>
-                · Utilized CSS3 code for the front-end styling of the pages. ·
-                Worked with ECMA Script 6 features. For the JSX and ES2015(ES6)
-                used Babel, web pack.{" "}
-              </p>
-              <p>
-                · Utilized spring MVC, spring beans, collections for
-                developments of overall backend code.{" "}
-              </p>{" "}
-              <p>
-                · Created model layer using Hibernate and extensively used its
-                API to perform crud operation.{" "}
-              </p>
-              <p>
-                · Worked Web Services composition in by using JAXB API, JAX-RS
-                and JAX-WS Services.{" "}
-              </p>
-              <p>
-                · Deep understanding and working experience in Object Oriented
-                Java{" "}
-              </p>
-              · Tested REST services using google chromes POSTMAN plugin.
-              Environment: ReactJS, Java, Restful Web services, POSTMAN, JIRA,
-              JSON, HTML5, CSS3, JavaScript, DB2, Agile Methodology.
-            </p>
-          </div>
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
             <h1 className="text-xl font-semibold">
               Sattvaq (Hyderabad, India) ( Dec 2012 - Dec 2013){" "}
