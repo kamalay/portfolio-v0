@@ -164,6 +164,8 @@ export default function ExperienceSection() {
           <div className="lg:w-1/3 bg-bg-secondary-dark rounded-3xl border border-border-dark p-10 space-y-4">
             <h1 className="text-xl font-semibold">
               Client: IBM (SouthBury, CT) ( Nov 2016 - June 2018) Employer:
+            </h1>
+            <h1 className="text-xl font-semibold">
               Kairos (Irving, TX) ( January 2016 - Nov 2016){" "}
             </h1>
             <p className="pb-2">
