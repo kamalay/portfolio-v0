@@ -34,8 +34,8 @@ export default function AboutMeSection() {
                 GitHub, JIRA, Bitbucket, Confluence for version control. Skilled
                 in designing and developing Web-centric applications using
                 modern technologies such as HTML5, JavaScript, ReactJS,
-                ExpressJS, Typescript and worked closely with UX designers and
-                leveraged Figma Design tool for Application Development
+                ExpressJS and worked closely with UX designers and leveraged
+                Figma Design tool for Application Development
               </p>
               <p>
                 Skilled in applying core Java concepts, including Collections
